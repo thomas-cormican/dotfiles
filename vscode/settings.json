@@ -4,5 +4,9 @@
   "editor.formatOnSave": true,
   "redhat.telemetry.enabled": true,
   "terminal.integrated.commandsToSkipShell": ["language-julia.interrupt"],
-  "julia.symbolCacheDownload": true
+  "julia.symbolCacheDownload": true,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+    "editor.formatOnSave": true
+  }
 }
